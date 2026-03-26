@@ -1,0 +1,23 @@
+1. Hiiii 😂 -> repetition+emoji -> normalize/remove
+2. Gr8 job!!! -> slang+punctuation -> expand/remove
+3. OMG sooo funny 🤣 -> repetition -> reduce
+4. U r amazing -> abbreviation -> expand
+5. Lol 😂😂 -> emoji -> remove
+6. Gud mrng -> typo -> correct
+7. Thx a lot!!! -> abbreviation -> expand
+8. Plzzz help -> repetition -> normalize
+9. Wht r u doing -> typo -> correct
+10. Bday party 🎉 -> emoji -> remove
+11. Luv u ❤️ -> slang -> normalize
+12. Okieee -> repetition -> reduce
+13. Msg me asap -> abbreviation -> expand
+14. Broooo -> repetition -> normalize
+15. Tmrw exam 😭 -> abbr+emoji -> clean
+16. Idk this -> slang -> expand
+17. BTW nice -> abbreviation -> expand
+18. Yaayyy 🎊 -> repetition+emoji -> clean
+19. Soooo cool -> repetition -> normalize
+20. Hahaha 😂 -> emoji -> remove
+
+Preprocessing:
+lowercase, remove punctuation/emojis, expand slang, correct typos, remove stopwords.

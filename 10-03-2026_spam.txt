@@ -1,0 +1,5 @@
+Features: keywords, frequency, links, sender reputation
+Data: labeled emails (spam/ham)
+Model: Naive Bayes / Logistic Regression
+Errors: false positives (important mail marked spam), false negatives (spam not caught)
+Mitigation: threshold tuning, better features

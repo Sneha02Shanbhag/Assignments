@@ -1,0 +1,13 @@
+College: Attendance → Performance score
+Healthcare: Symptoms → Disease prediction
+Shopping: History → Product recommendations
+Transport: Past trips → ETA prediction
+Banking: Transactions → Fraud detection
+Education: Quiz data → Difficulty prediction
+HR: Resume → Job match score
+Agriculture: Weather + soil → Yield prediction
+Fitness: Activity logs → Calorie estimate
+Smart Home: Sensor data → Energy optimization
+
+Input → Structured data
+Output → Prediction / recommendation

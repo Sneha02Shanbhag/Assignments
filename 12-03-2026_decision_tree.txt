@@ -1,0 +1,7 @@
+Play Outside?
+ ├─ Is it raining?
+ │   ├─ Yes → Stay inside
+ │   └─ No
+ │       ├─ Is it too hot?
+ │       │   ├─ Yes → Stay inside
+ │       │   └─ No → Play outside

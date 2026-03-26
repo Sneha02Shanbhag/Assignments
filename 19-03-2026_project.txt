@@ -1,0 +1,19 @@
+Title: Student Performance Predictor
+
+Problem:
+Predict student marks from study behavior.
+
+Dataset:
+Study hours, attendance, past marks.
+
+Algorithm:
+Linear Regression.
+
+Pipeline:
+Data → Clean → Train → Evaluate → Predict.
+
+Output:
+Predicted marks and performance band.
+
+Impact:
+Helps students plan study time effectively.
