@@ -1,0 +1,9 @@
+Applications:
+1. Face Unlock
+2. CCTV Surveillance
+3. Self-driving Cars
+4. Attendance System
+5. Retail Tracking
+
+Solution:
+Smart Attendance System using face detection for automation.
