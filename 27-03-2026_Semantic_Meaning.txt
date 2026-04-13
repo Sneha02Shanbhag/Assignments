@@ -1,0 +1,7 @@
+Car–Automobile: same meaning
+Big–Large: similar size
+Happy–Joyful: same emotion
+Teacher–Educator: same role
+Fast–Quick: same speed
+
+Semantic similarity means words share meaning.

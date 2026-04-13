@@ -1,0 +1,5 @@
+1. Explain in 1 word but detailed → contradiction
+2. Sentence without letters → impossible
+3. Answer unknown question → ambiguity
+
+Conclusion: AI struggles with contradictions and ambiguity.

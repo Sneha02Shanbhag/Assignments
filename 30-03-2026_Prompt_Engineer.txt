@@ -1,0 +1,9 @@
+Resume:
+Weak: make resume
+Strong: create resume for CS student with ML skills
+
+Study Plan:
+Weak: study plan
+Strong: 30-day DSA plan with daily topics
+
+Strong prompts are specific and detailed.
